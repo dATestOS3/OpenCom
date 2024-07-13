@@ -81,7 +81,8 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 
 Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 ------------ | --------------- | ------------- | ------------- | ------------
-[**Clarify**](https://web.archive.org/web/20201130045805/https://www.clarify.so/) | Clarify - Launch and manage your career | N/A |  |
+[**Clarify**](https://web.archive.org/web/20201130045805/https://www.clarify.so/) | [Clarify - Launch and manage your career](https://clarifyhq.com/open) | N/A |  |
+=======
 
 ## Resources
 
